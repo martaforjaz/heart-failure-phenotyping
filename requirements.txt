@@ -3,3 +3,4 @@ pandas
 scikit-learn
 torch
 matplotlib
+lifelines==0.30.3
